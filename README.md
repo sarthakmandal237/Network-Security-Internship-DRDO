@@ -1,63 +1,51 @@
-Internship at DRDO SAG Lab - Network Security
+# Internship at SAG Lab, DRDO New Delhi - Network Security
 
-I had the incredible opportunity to complete an internship at the Defence Research and Development Organisation (DRDO), SAG Lab, New Delhi, focusing on Network Security. This experience provided me with practical knowledge in securing network infrastructures and mitigating potential threats. Below is a summary of the key concepts and skills I gained during my internship:
+## Overview
+During my internship at the **Scientific Analysis Group (SAG) Lab**, **Defence Research and Development Organisation (DRDO)**, New Delhi, I had the opportunity to work on critical projects that contributed to advancements in the field of network security. This experience equipped me with practical knowledge of network protocols, security measures, and both wired and wireless network simulations. Below are some of the key areas I worked on during my internship.
 
-Key Learnings
+## Key Learnings & Contributions
 
-1. OSI Model Layers
+### OSI Model Layers
+- **Overview**:  
+  Gained in-depth understanding of the seven OSI layers and their role in network communication and security.
+- **Security Focus**:  
+  Emphasized securing layers 3 (Network Layer), 4 (Transport Layer), and 7 (Application Layer) using modern encryption and security protocols.
 
-In-depth understanding of the OSI Model, including all 7 layers and their role in network communication.
+### SSL/TLS (Secure Sockets Layer/Transport Layer Security)
+- **SSL**:  
+  Implemented SSL protocols to establish encrypted links between servers and clients.
+- **TLS**:  
+  Worked with advanced TLS protocols to enhance network security, ensuring data privacy and integrity during communication.
 
+### Diffie-Hellman Key Exchange Algorithm
+- **Overview**:  
+  Studied and applied the Diffie-Hellman algorithm to securely exchange cryptographic keys over an insecure network.
 
-2. SSL/TLS Protocols
+### Nmap (Network Mapper)
+- **Vulnerability Assessment**:  
+  Conducted comprehensive network scans using Nmap to identify vulnerabilities and map out networks for security assessments.
+- **Nmap Working Protocol**:  
+  Gained insights into Nmap’s functionality, including its various scanning techniques (TCP, UDP, SYN scans) and how it operates across different network layers.
 
-Implemented Secure Socket Layer (SSL) and Transport Layer Security (TLS) protocols to enhance network security.
+### Wireless Sensor Networks (WSNs)
+- **Network Security**:  
+  Explored security challenges and potential attacks in wireless sensor networks (WSNs), focusing on ensuring communication integrity and resilience against attacks.
 
-Gained insights into their importance in ensuring secure communication over networks.
+### Wired Network Simulations
+- **Static Routing (Four Routers in Cisco Packet Tracer)**:  
+  Configured static routing for a network topology involving four routers, ensuring optimal data flow and network stability.
+- **Dynamic Routing (Routing Information Protocol - RIP)**:  
+  Simulated dynamic routing using RIP in Cisco Packet Tracer, automating route advertisement and optimizing network performance.
+- **VLAN Configuration using CLI in Cisco Packet Tracer**:  
+  Implemented VLAN segmentation using CLI commands in Cisco Packet Tracer to enhance network management and security.
 
+### Wireless Network Simulations
+- **Wireless Network Topology**:  
+  Created and simulated wireless network topologies, focusing on optimizing communication and data flow within wireless infrastructures.
+- **Wormhole Attack Simulation**:  
+  Simulated a wormhole attack to understand its impact on wireless networks and devised countermeasures.
+- **Blackhole Attack Simulation**:  
+  Simulated a blackhole attack in wireless networks and implemented strategies to mitigate the damage caused by such attacks.
 
-3. Diffie-Hellman Key Exchange Algorithm
-
-Studied and understood the Diffie-Hellman Key Exchange Algorithm used for securely exchanging cryptographic keys over a public channel.
-
-
-4. Nmap (Network Mapper)
-
-Conducted network scanning using Nmap to identify open ports and detect vulnerabilities in wired and wireless networks.
-
-Learned the inner workings of the Nmap protocol and its role in vulnerability assessment.
-
-
-5. Wired Network Simulations
-
-Performed various wired network simulations using Cisco Packet Tracer, including:
-
-Static Routing with Four Routers.
-
-Dynamic Routing using Routing Information Protocol (RIP).
-
-VLAN Configuration using CLI commands.
-
-
-
-6. Wireless Sensor Networks (WSN)
-
-Gained an understanding of Wireless Sensor Networks and their importance in secure communication.
-
-
-7. Wireless Network Simulations
-
-Worked on wireless network simulations involving:
-
-Creating Wireless Network Topologies.
-
-Simulating Wormhole Attack.
-
-Simulating Blackhole Attack.
-
-
-
-
----
-
-This internship has significantly enhanced my skills in network security, equipping me with a deeper understanding of both wired and wireless networks, and the ability to assess and mitigate potential threats. I am excited to apply this knowledge to future projects and opportunities!
+## Certification
+I successfully completed the internship and received certification from DRDO, marking a significant milestone in my career in network security.
