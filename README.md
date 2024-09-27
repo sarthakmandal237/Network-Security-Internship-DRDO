@@ -1,29 +1,54 @@
-######Internship at SAG Lab, DRDO New Delhi - Network Security
+Network Security Internship at SAG Lab, DRDO New Delhi
 Overview
-During my internship at the Scientific Analysis Group (SAG) Lab, Defence Research and Development Organisation (DRDO), New Delhi, I had the opportunity to work on critical projects that contributed to advancements in the field of network security. This experience equipped me with practical knowledge of network protocols, security measures, and both wired and wireless network simulations. Below are some of the key areas I worked on during my internship.
+This repository contains the work completed during the Network Security Internship at the Scientific Analysis Group (SAG) Lab, Defence Research and Development Organisation (DRDO), New Delhi. The internship provided hands-on experience in various network security protocols, simulations, and vulnerability assessments, contributing to the defense technology sector.
 
-Key Learnings & Contributions
-OSI Model Layers
-Overview: Gained in-depth understanding of the seven OSI layers and their role in network communication and security.
-Security Focus: Emphasized securing layers 3 (Network Layer), 4 (Transport Layer), and 7 (Application Layer) using modern encryption and security protocols.
-SSL/TLS (Secure Sockets Layer/Transport Layer Security)
-SSL: Implemented SSL protocols to establish encrypted links between servers and clients.
-TLS: Worked with the more advanced TLS protocols to enhance network security, ensuring data privacy and integrity during communication.
-Diffie-Hellman Key Exchange Algorithm
-Overview: Studied and applied the Diffie-Hellman algorithm to securely exchange cryptographic keys over an insecure network.
+Key Learnings and Projects
+1. OSI Model and Network Security
+OSI Model
+Studied the 7-layer OSI model, focusing on:
+Understanding the functionalities and importance of each layer in networking.
+Security protocols across different layers, with emphasis on Layer 3 (Network Layer), Layer 4 (Transport Layer), and Layer 7 (Application Layer).
+2. SSL and TLS Protocols
+Secure Sockets Layer (SSL)
+Implemented SSL to establish secure and encrypted communication links between clients and servers.
+
+Transport Layer Security (TLS)
+Advanced the security layer by implementing TLS protocols, enhancing encryption standards to protect data integrity and confidentiality.
+
+3. Diffie-Hellman Key Exchange Algorithm
+Implemented the Diffie-Hellman algorithm to securely exchange cryptographic keys over unsecured networks.
+Worked on key management and secure transmission to ensure the protection of sensitive data.
+4. Nmap and Network Scanning
 Nmap (Network Mapper)
-Vulnerability Assessment: Conducted comprehensive network scans using Nmap to identify vulnerabilities and map out networks for security assessments.
-Nmap Working Protocol: Gained insights into Nmap’s functionality, its various scanning techniques (TCP, UDP, SYN scans), and how it works across different network layers.
-Wireless Sensor Networks (WSNs)
-Network Security: Explored security challenges and potential attacks in wireless sensor networks (WSNs), focusing on ensuring communication integrity and resilience against attacks.
-Wired Network Simulations
-Static Routing (Four Routers in Cisco Packet Tracer): Configured static routing for a network topology involving four routers, ensuring optimal data flow and network stability.
-Dynamic Routing (Routing Information Protocol - RIP): Simulated dynamic routing using RIP in Cisco Packet Tracer, automating route advertisement and optimizing network performance.
-VLAN Configuration using CLI in Cisco Packet Tracer: Implemented VLAN segmentation using CLI commands in Cisco Packet Tracer to enhance network management and security.
-Wireless Network Simulations
-Wireless Network Topology: Created and simulated wireless network topologies, focusing on optimizing communication and data flow within wireless infrastructures.
-Wormhole Attack Simulation: Simulated a wormhole attack to understand its impact on wireless networks and devise countermeasures.
-Blackhole Attack Simulation: Simulated a blackhole attack in wireless networks and implemented strategies to mitigate the damage caused by such attacks.
-Certification
-I successfully completed the internship and received certification from DRDO, marking a significant milestone in my career in network security.
+Performed vulnerability assessments using Nmap to:
+Map out network structures.
+Identify open ports and services.
+Analyze potential vulnerabilities through TCP, UDP, and SYN scans.
+Nmap Working Protocol
+Studied how Nmap operates across different network layers, leveraging its advanced features for deep security scans.
+5. Wireless Sensor Networks (WSN)
+Explored security challenges in Wireless Sensor Networks (WSN):
+Addressed communication security.
+Mitigated threats like eavesdropping, data tampering, and routing attacks in wireless sensor environments.
+6. Wired Network Simulations
+Static Routing Simulation
+Configured and simulated a network with four routers using Static Routing in Cisco Packet Tracer, ensuring efficient routing paths.
 
+Dynamic Routing Simulation (RIP Protocol)
+Implemented Routing Information Protocol (RIP) in Cisco Packet Tracer, automating the exchange of routing information and improving network efficiency.
+
+VLAN Configuration
+Set up VLANs using CLI commands in Cisco Packet Tracer to optimize network management and segment networks for enhanced security and performance.
+
+7. Wireless Network Simulations
+Wireless Network Topology
+Simulated wireless network topologies, focusing on configuring devices, establishing communication protocols, and analyzing network performance.
+
+Wormhole Attack Simulation
+Simulated a Wormhole Attack in wireless networks to understand its effects on data transmission and develop countermeasures.
+
+Blackhole Attack Simulation
+Simulated a Blackhole Attack, a network-layer attack that drops all data packets, and studied mitigation strategies for securing wireless networks.
+
+Certification
+Successfully completed the internship and earned a certification from DRDO, marking a significant step toward building a strong foundation in network security.
