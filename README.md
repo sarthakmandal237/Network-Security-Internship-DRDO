@@ -1,4 +1,4 @@
-Internship at SAG Lab, DRDO New Delhi - Network Security
+######Internship at SAG Lab, DRDO New Delhi - Network Security
 Overview
 During my internship at the Scientific Analysis Group (SAG) Lab, Defence Research and Development Organisation (DRDO), New Delhi, I had the opportunity to work on critical projects that contributed to advancements in the field of network security. This experience equipped me with practical knowledge of network protocols, security measures, and both wired and wireless network simulations. Below are some of the key areas I worked on during my internship.
 
